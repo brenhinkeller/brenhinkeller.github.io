@@ -1,0 +1,28 @@
+---
+title: "EARS 13: Introduction to Computational Methods in Earth Science, Winter 2021"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2021-winter-teaching-1
+venue: "Dartmouth College, Department of Earth Sciences"
+date: 2021-01-07
+location: "Hanover, NH"
+---
+
+### Course overview:
+This course aims to provide students with a hands-on introduction to the use and analysis of large, open datasets in the Earth Sciences. Along the way, we will introduce (in lab) some of the basic concepts of programming, as code literacy is increasingly obligator in Earth Science. Prior programming experience may be helpful, but is not required. After introducing some basic concepts and tools, each student will work with the instructor to find a real data analysis question that can be addressed (as a final project) using the techniques learned in class.
+
+### Learning Objectives:
+This course is structured as a member of the “Collection and Analysis of Earth Science Data” category of courses within the Earth Sciences major. In contrast to other courses within this category, however, our focus here is on the use and re-use of existing large and open datasets, rather than on the collection of new data from the field. Upon completing this course, students will be able to:
+* Find and assess the quality of open datasets relevant to a geological question of interest
+* Quantify the distribution of data in such a dataset
+* Work programmatically with data
+* Visualize arbitrary data in two or three dimensions for filtering and interpretation
+* Identify a relevant independent variable in a dataset, plot summary statistics as a function of that independent variable
+
+### Prerequisites:  
+MATH 1 or greater
+
+### Textbooks:
+1. [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Lauwens & Downey
+
+### Additional resources:
