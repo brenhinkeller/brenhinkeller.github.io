@@ -10,7 +10,7 @@ preprinturl: 'https://brenhinkeller.github.io/files/KellerHarrison2020Preprint.p
 arxivurl: 'https://doi.org/10.31223/osf.io/75evw'
 codeurl: 'https://github.com/brenhinkeller/StatGeochem.jl'
 authors: 'C. Brenhin Keller and T. Mark Harrison'
-citation: 'Keller, C.B. and Harrison, T.M. (2020) Constraining crustal silica on ancient Earth. <i>Proceedings of the National Academy of Sciences</i> 117 (35), 21101–21107.'
+citation: 'Keller, C.B. and Harrison, T.M. (2020). Constraining crustal silica on ancient Earth. <i>Proceedings of the National Academy of Sciences</i> 117 (35), 21101–21107.'
 ---
 <a href='https://brenhinkeller.github.io/files/KellerHarrison2020Preprint.pdf'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/StatGeochem.jl'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,4 +18,4 @@ On geologic timescales, Earth’s habitable climate is maintained by a negative 
 
 >Abstract: <br/>Accurately quantifying the composition of continental crust on Hadean and Archean Earth is critical to our understanding of the physiography, tectonics, and climate of our planet at the dawn of life. One longstanding paradigm involves the growth of a relatively mafic planetary crust over the first 1 to 2 billion years of Earth history, implying a lack of modern plate tectonics and a paucity of subaerial crust, and consequently lacking an efficient mechanism to regulate climate. Others have proposed a more uniformitarian view in which Archean and Hadean continents were only slightly more mafic than at present. Apart from complications in assessing early crustal composition introduced by crustal preservation and sampling biases, effects such as the secular cooling of Earth’s mantle and the biologically driven oxidation of Earth’s atmosphere have not been fully investigated. We find that the former complicates efforts to infer crustal silica from compatible or incompatible element abundances, while the latter undermines estimates of crustal silica content inferred from terrigenous sediments. Accounting for these complications, we find that the data are most parsimoniously explained by a model with nearly constant crustal silica since at least the early Archean.
 
-Suggested citation: <br/>Keller, C.B. and Harrison, T.M. (2020) Constraining crustal silica on ancient Earth. <i>Proceedings of the National Academy of Sciences</i> 117 (35), 21101–21107.
+Suggested citation: <br/>Keller, C.B. and Harrison, T.M. (2020). Constraining crustal silica on ancient Earth. <i>Proceedings of the National Academy of Sciences</i> 117 (35), 21101–21107.
