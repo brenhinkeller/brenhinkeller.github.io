@@ -14,7 +14,7 @@ Despite the static appearance of Earth’s continental crust on human timescales
 Research group:
 
 |:-------------------------:|:-------------------------:|
-|test|test|
+|<img width="500" src="images/profiles/graham_edwards.jpg">  Graham Edwards|<img width="500" src="images/profiles/kalin_mcdannell.jpg">  Kalin McDannell|
 |test|test|
 |test|test|
 
