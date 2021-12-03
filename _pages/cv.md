@@ -58,9 +58,10 @@ Awards and Fellowships
 * <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
 <br/><br/>
 
-Field experience
+Selected Fieldwork
 ======
-* [<u>Wernecke Mountains, Yukon. Neproterozoic through Paleozoic</u> 2019](/fieldwork/099-werneckes-2019/)
+* [<u>Salient Platform, British Columbia. Ediacaran reef systems</u> 2019](/fieldwork/095-salient-2021/)
+* [<u>Wernecke Mountains, Yukon. Neproterozoic through Paleozoic Earth history</u> 2019](/fieldwork/099-werneckes-2019/)
 * [<u>Hell Creek region, Montana. K-Pg boundary</u> 2017](/fieldwork/100-hell-creek-2017/)
 * [<u>Columbia River Plateau, Washington. Flood basalt volcanism</u> 2016](/fieldwork/101-columbia-river-2016/)
 * [<u>Needle Mountains, Colorado. Proterozoic tectonics and magmatism</u> 2012-2014](/fieldwork/105-needle-mountains-2014/)
