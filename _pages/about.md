@@ -12,6 +12,7 @@ Despite the static appearance of Earth’s continental crust on human timescales
 
 ---
 Research group:
+
 | | |
 |:-------------------------:|:-------------------------:|
 |test|test|
@@ -19,6 +20,8 @@ Research group:
 |test|test|
 
 Alumni:
+
+| | |
 |:-------------------------:|:-------------------------:|
 |test|test|
 
