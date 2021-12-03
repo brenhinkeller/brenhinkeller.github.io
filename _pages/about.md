@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My group applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
+Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My group applies a wide range of integrated computational, field, and thermo/geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
 
 ---
 ## Research group
@@ -24,7 +24,7 @@ Despite the static appearance of Earth’s continental crust on human timescales
 |<img width="256" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|<img width="256" src="images/profiles/blank.jpg">|<img width="256" src="images/profiles/blank.jpg">|
 
 ---
-### Resources
+## Resources
 
 For mineral (especially zircon) eruption/deposition age estimation, there is a simple example in this [BayeZirChron demo notebook](https://mybinder.org/v2/gh/brenhinkeller/BayeZirChron.c/main?filepath=julia%2Fdemo.ipynb) based on [Keller, Schoene, & Samperton (2018)]( https://doi.org/10.7185/geochemlet.1826), or the [Chron.jl](https://github.com/brenhinkeller/Chron.jl) version of the same notebook:
 
