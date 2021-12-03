@@ -11,14 +11,14 @@ redirect_from:
 Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My group applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
 
 ---
-### Research group
+## Research group
 
 | ------------------------- | ------------------------- | ------------------------- |
 |<img width="256" src="images/profiles/kalin_mcdannell.jpg"><br>[Kalin McDannell](https://www.kmcdannell.com/)<br>Postdoctoral Fellow|<img width="256" src="images/profiles/graham_edwards.jpg"><br>[Graham Edwards](https://grahamedwards.github.io/)<br>Postdoctoral Fellow|<img width="256" src="images/profiles/akshay_mehra.jpg"><br>[Akshay Mehra](https://www.akshaymehra.com/)<br>Postdoctoral Fellow|
 |<img width="256" src="images/profiles/gailin_l_pease.jpg"><br>[Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease)<br>Graduate Student|<img width="256" src="images/profiles/alex_cox.jpg"><br>[Alexander Cox](https://earthsciences.dartmouth.edu/people/alexander-cox)<br>Graduate Student|<img width="256" src="images/profiles/blank.jpg">|
 {: style="font-size: 80%; text-align: center;"}
 
-### Alumni
+## Alumni
 
 | ------------------------- | ------------------------- | ------------------------- |
 |<img width="256" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|<img width="256" src="images/profiles/blank.jpg">|<img width="256" src="images/profiles/blank.jpg">|
