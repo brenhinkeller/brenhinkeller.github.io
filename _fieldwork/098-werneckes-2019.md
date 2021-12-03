@@ -6,7 +6,7 @@ collection: fieldwork
 Neproterozoic and Paleozoic stratigraphy
 ---
 
-Led by the [Strauss group](https://sites.dartmouth.edu/strausslab/) and the YGS.
+With the [Strauss group](https://sites.dartmouth.edu/strausslab/) and the Yukon Geological Survey.
 
 ---
 
