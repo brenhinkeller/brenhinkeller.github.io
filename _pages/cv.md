@@ -71,10 +71,6 @@ Field experience
 
 Other
 ======
+* Chair, [Geoinformatics and Data Science Division, Geological Society of America](https://community.geosociety.org/geoinformaticsdivision/home) 2021-2022
 * Vice-Chair, [Geoinformatics and Data Science Division, Geological Society of America](https://community.geosociety.org/geoinformaticsdivision/home) 2020-2021
 * Associate Editor, [Geochronology](https://www.geochronology.net/) 2019-
-* Advisory Committee, [Interdisciplinary Earth Data Alliance](https://www.iedadata.org/), 2018
-* Session chair, “Upper Crust Evolution: Models of Formation and Composition”, AGU Fall Meeting, 2018
-* Session chair, “Igneous Processes throughout the Arc Crustal Column and Oceanic Mantle”, Goldschmidt Conference, 2018
-* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017
-* Session chair, “Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
