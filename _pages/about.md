@@ -14,16 +14,17 @@ Despite the static appearance of Earth’s continental crust on human timescales
 ### Research group
 
 |:-------------------------:|:-------------------------:|
-|<img width="500" src="images/profiles/graham_edwards.jpg"><br>[Graham Edwards](https://grahamedwards.github.io/)<br>Postdoctoral Fellow|<img width="500" src="images/profiles/kalin_mcdannell.jpg"><br>[Kalin McDannell](https://www.kmcdannell.com/)<br>Postdoctoral Fellow|
-|<img width="500" src="images/profiles/akshay_mehra.jpg"><br>[Akshay Mehra](https://www.akshaymehra.com/)<br>Postdoctoral Fellow|<img width="500" src="images/profiles/gailin_l_pease.jpg"><br>[Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease)<br>Graduate Student|
-|<img width="500" src="images/profiles/alex_cox.jpg"><br>[Alexander Cox](https://earthsciences.dartmouth.edu/people/alexander-cox)<br>Graduate Student| |
+|<img width="350" src="images/profiles/graham_edwards.jpg"><br>[Graham Edwards](https://grahamedwards.github.io/)<br>Postdoctoral Fellow|<img width="350" src="images/profiles/kalin_mcdannell.jpg"><br>[Kalin McDannell](https://www.kmcdannell.com/)<br>Postdoctoral Fellow|
+|<img width="350" src="images/profiles/akshay_mehra.jpg"><br>[Akshay Mehra](https://www.akshaymehra.com/)<br>Postdoctoral Fellow|<img width="350" src="images/profiles/gailin_l_pease.jpg"><br>[Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease)<br>Graduate Student|
+|<img width="350" src="images/profiles/alex_cox.jpg"><br>[Alexander Cox](https://earthsciences.dartmouth.edu/people/alexander-cox)<br>Graduate Student| |
 
 ### Alumni
 
-|:-------------------------:|:-------------------------:|
-|<img width="300" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|               |
+|:-------------------------:|
+|<img width="350" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|
 
 ---
+### Resources
 
 For mineral (especially zircon) eruption/deposition age estimation, there is a simple example in this [BayeZirChron demo notebook](https://mybinder.org/v2/gh/brenhinkeller/BayeZirChron.c/main?filepath=julia%2Fdemo.ipynb) based on [Keller, Schoene, & Samperton (2018)]( https://doi.org/10.7185/geochemlet.1826), or the [Chron.jl](https://github.com/brenhinkeller/Chron.jl) version of the same notebook:
 
