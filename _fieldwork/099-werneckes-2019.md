@@ -1,9 +1,9 @@
 ---
 title: "Wernecke Mountains, Yukon Territory"
-excerpt: "<a href='/fieldwork/98-werneckes-2019/'><img src='/images/werneckes/RacklaPanorama.jpg'></a>The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs runs parallel to the river valley."
+excerpt: "<a href='/fieldwork/099-werneckes-2019/'><img src='/images/werneckes/RacklaPanorama.jpg'></a>The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs runs parallel to the river valley."
 collection: fieldwork
 ---
-Neproterozoic and Paleozoic stratigraphy
+Neproterozoic through Paleozoic Earth History
 ---
 
 With the [Strauss group](https://sites.dartmouth.edu/strausslab/) and the Yukon Geological Survey.
