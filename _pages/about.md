@@ -14,14 +14,14 @@ Despite the static appearance of Earth’s continental crust on human timescales
 Research group:
 
 |:-------------------------:|:-------------------------:|
-|<img width="500" src="images/profiles/graham_edwards.jpg">  Graham Edwards|<img width="500" src="images/profiles/kalin_mcdannell.jpg">  Kalin McDannell|
-|test|test|
-|test|test|
+|<img width="300" src="images/profiles/graham_edwards.jpg">  Graham Edwards<br>Postdoctoral Fellow|<img width="300" src="images/profiles/kalin_mcdannell.jpg">  Kalin McDannell<br>Postdoctoral Fellow|
+|<img width="300" src="images/profiles/akshay_mehra.jpg">  Akshay Mehra<br>Postdoctoral Fellow|<img width="300" src="images/profiles/gailin_l_pease.jpg">  Gailin Pease<br>Graduate Student|
+|<img width="300" src="images/profiles/alex_cox.jpg">  Alexander Cox<br>Graduate Student| |
 
 Alumni:
 
 |:-------------------------:|:-------------------------:|
-|test|test|
+|<img width="300" src="images/profiles/theo_green.jpg">  Theodore Green<br>Dartmouth Senior Fellow `21| |
 
 ---
 

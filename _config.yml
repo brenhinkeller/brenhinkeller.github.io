@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CBK"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "C. Brenhin Keller"
 description              : &description "geochemistry, geochronology, computational science"
