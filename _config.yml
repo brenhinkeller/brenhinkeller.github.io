@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "C. Brenhin Keller"
   avatar           : "profiles/cbk.jpg"
-  bio              : "Assistant Professor<br>Earth Sciences<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
+  bio              : "Assistant Professor<br>of Earth Sciences,<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
   location         :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-7400-9428"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : "https://stackoverflow.com/users/13639734/cbk"
   steam            :
   tumblr           :
   twitter          :
