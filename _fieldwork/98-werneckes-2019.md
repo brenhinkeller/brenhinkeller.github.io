@@ -4,6 +4,7 @@ excerpt: "<a href='/fieldwork/98-werneckes-2019/'><img src='/images/werneckes/Ra
 collection: fieldwork
 ---
 Neproterozoic and Paleozoic stratigraphy
+---
 
 Led by the [Strauss group](https://sites.dartmouth.edu/strausslab/) and the YGS.
 
