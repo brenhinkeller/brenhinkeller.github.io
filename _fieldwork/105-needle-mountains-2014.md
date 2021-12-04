@@ -17,7 +17,7 @@ Eolus granite exposure around Mount Eolus, as seen from Lime Mesa near Overlook 
 ---
 
 <a href='/images/needle_mts/EaMapSmall.jpg'><img src='/images/needle_mts/EaMapSmall.jpg'></a>
-The involute comagmatic contact between the ~1.43 Ga Eolus Granite and central Trimble Granite on East Silver Mesa, mapped at 1:2200 scale. <a href='/images/needle_mts/EaMap.jpg'>full size</a>
+The involute comagmatic contact between the ~1.43 Ga Eolus Granite and central Trimble Granite on East Silver Mesa, mapped at 1:2200 scale. <a href='/images/needle_mts/EaMap.jpg' target="_blank">full size</a>
 
 ---
 
