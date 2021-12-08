@@ -22,7 +22,7 @@ Burrowed, mat-like siltstone and sandstone beds in the Ignacio Sandstone shortly
 ---
 
 <a href='/images/unconformity/NeedleMtnTraces1.jpg'><img src='/images/unconformity/NeedleMtnTraces1.jpg'></a>
-Spectacular curved burrow casts, possibly <i>Gordia marina<i/> in the Ignacio Sandstone shortly above the Great Unconformity. Note the sharp contrast between dark purple hematitic sandstone and surrounding beige iron-free sandstone, suggestive of reductive bleaching and leaching of Fe3+ by chemically reduced aqueous fluids prior to exposure.
+Spectacular curved burrow casts, possibly <i>Gordia marina</i> in the Ignacio Sandstone shortly above the Great Unconformity. Note the sharp contrast between dark purple hematitic sandstone and surrounding beige iron-free sandstone, suggestive of reductive bleaching and leaching of Fe3+ by chemically reduced aqueous fluids prior to exposure.
 
 ---
 
@@ -52,7 +52,7 @@ The Triassic Kayenta Formation unconformably overlies Proterozoic a quartz-mica-
 ---
 
 <a href='/images/unconformity/MicaMinePegmatite.jpg'><img src='/images/unconformity/MicaMinePegmatite.jpg'></a>
-Dartmouth graduate student [Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease) examines meter-scale books of mica in the Proterozoic basement quartz-mica-kspar pegmatite near Grand Junction, CO
+Dartmouth graduate student [Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease) examines meter-scale books of mica in the Proterozoic basement quartz-mica-kspar pegmatite near Grand Junction, CO.
 
 ---
 
@@ -62,4 +62,4 @@ Cambrian Flathead Sandstone unconformably ovleries deeply weathered Archean base
 ---
 
 <a href='/images/unconformity/ShoshoneRiverNonconformity.jpg'><img src='/images/unconformity/ShoshoneRiverNonconformity.jpg'></a>
-Cambrian Flathead Sandstone unconformably ovleries the Archean "Oldest Gneiss Complex" of the Wyoming Craton in a roadcut in the Shoshone River valley near Cody, WY.
+Cambrian Flathead Sandstone unconformably ovleries the Archean "Oldest Gneiss Complex" of the Wyoming Craton in a roadcut in the canyon of the Shoshone River near Cody, WY.
