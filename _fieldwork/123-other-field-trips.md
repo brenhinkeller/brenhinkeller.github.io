@@ -93,22 +93,22 @@ Students climb one of the tallest sand dunes in North America - Eureka Dunes, De
 ---
 
 <a href='/images/KingstonPeakStrat1.jpg'><img src='/images/KingstonPeakStrat1.jpg'></a>
-Colorful stratigraphy of the Kingston Peak Formation, Beck Canyon, California
+Colorful stratigraphy of the Crystal Spring Formation and the overlying Beck Spring Dolomite near Beck Spring, Kingston Range, California
 
 ---
 
 <a href='/images/KingstonPeakMagnetite1.jpg'><img src='/images/KingstonPeakMagnetite1.jpg'></a>
-Meter-wide magnetite veins cutting the Beck Springs Dolomite, Beck Canyon, California
+Meter-wide magnetite veins cutting dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
 
 ---
 
 <a href='/images/KingstonPeakMagnetite2.jpg'><img src='/images/KingstonPeakMagnetite2.jpg'></a>
-Detail of magnetite vein cutting the Beck Springs Dolomite, Beck Canyon, California
+Detail of magnetite vein cutting dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
 
 ---
 
 <a href='/images/KingstonPeakMagnetite3.jpg'><img src='/images/KingstonPeakMagnetite3.jpg'></a>
-Intricate contact of magnetite with surrounding dolomite, Beck Canyon, California
+Intricate contact of magnetite with surrounding dolomite, Beck Spring region, Kingston Range, California
 
 ---
 
@@ -146,5 +146,3 @@ Syn-rift sediments, Argentine Precordillera
 Colorful syn-rift sediments in the foreground of the main Andean Cordillera, Argentina
 
 ---
-
-
