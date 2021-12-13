@@ -93,17 +93,17 @@ Students climb one of the tallest sand dunes in North America - Eureka Dunes, De
 ---
 
 <a href='/images/KingstonPeakStrat1.jpg'><img src='/images/KingstonPeakStrat1.jpg'></a>
-Colorful stratigraphy of the Crystal Spring Formation and the overlying Beck Spring Dolomite near Beck Spring, Kingston Range, California
+Colorful stratigraphy of the Mesoproterozoic Crystal Spring Formation and the overlying Tonian Beck Spring Dolomite near Beck Spring, Kingston Range, California
 
 ---
 
 <a href='/images/KingstonPeakMagnetite1.jpg'><img src='/images/KingstonPeakMagnetite1.jpg'></a>
-Meter-wide magnetite veins cutting dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
+Meter-wide magnetite veins cutting Mesoproterozoic dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
 
 ---
 
 <a href='/images/KingstonPeakMagnetite2.jpg'><img src='/images/KingstonPeakMagnetite2.jpg'></a>
-Detail of magnetite vein cutting dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
+Detail of magnetite vein cutting Mesoproterozoic dolomite of the Crystal Spring Formation near Beck Spring, Kingston Range, California
 
 ---
 
