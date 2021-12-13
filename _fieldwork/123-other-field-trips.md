@@ -93,7 +93,7 @@ Students climb one of the tallest sand dunes in North America - Eureka Dunes, De
 ---
 
 <a href='/images/KingstonPeakStrat1.jpg'><img src='/images/KingstonPeakStrat1.jpg'></a>
-Colorful stratigraphy of the Mesoproterozoic Crystal Spring Formation and the overlying Tonian Beck Spring Dolomite near Beck Spring, Kingston Range, California
+Colorful stratigraphy of the Mesoproterozoic Crystal Spring Formation, Tonian Horse Thief Springs Formation and Tonian Beck Spring Dolomite near Beck Spring, Kingston Range, California
 
 ---
 
