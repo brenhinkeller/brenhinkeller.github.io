@@ -4,12 +4,72 @@ excerpt: "<a href='/fieldwork/123-other-field-trips/'><img src='/images/etc/Walk
 collection: fieldwork
 ---
 <a href='/images/etc/Burgess1.jpg'><img src='/images/etc/Burgess1.jpg'></a>
-Trilobite fragment (probably <i>Ollenoides serratus</i>), Walcott Quarry member of the Burgess Shale, British Columbia
+Trilobite fragment (possibly <i>Ollenoides serratus</i>), Walcott Quarry member of the Burgess Shale, British Columbia
 
 ---
 
-<a href='/images/etc/InyoTensionGash1.jpg'><img src='/images/etc/InyoTensionGash1.jpg'></a>
-Rotated tension gash in the contact aureole of the Inyo Batholith, White-Inyo Mountains, California
+<a href='/images/etc/WoodCanyonBurrows1.jpg'><img src='/images/etc/WoodCanyonBurrows1.jpg'></a>
+Large vertical burrows in the Early Cambrian Upper Wood Canyon formation near Emigrant Pass, California
+
+---
+
+<a href='/images/etc/WoodCanyonBurrows2.jpg'><img src='/images/etc/WoodCanyonBurrows2.jpg'></a>
+Large vertical burrows in the Early Cambrian Upper Wood Canyon formation near Emigrant Pass, California
+
+---
+
+<a href='/images/etc/JohnnieSterlingWoodCanyon.jpg'><img src='/images/etc/JohnnieSterlingWoodCanyon.jpg'></a>
+A view of the Ediacaran-Cambrian stratigraphy of the southern Nopah Range, with the Ediacaran Johnnie Formation (including the prominent yellow-orange marker bed of the Johnnie Oolite) overlain in turn by the Sterling Quartzite and the Wood Canyon Formation.
+
+---
+
+<a href='/images/etc/JohnnieOolite.jpg'><img src='/images/etc/JohnnieOolite.jpg'></a>
+The Johnnie Oolite, composed of spherical millimeter-scale ooids, as exposed in the southern Nopah Range, California.
+
+---
+
+<a href='/images/etc/NoondayTubestone.jpg'><img src='/images/etc/NoondayTubestone.jpg'></a>
+"Tubestone" texture in the ~635 Ma Noonday Dolomite (generally interpreted as the Marinoan cap carbonate) near the eponymous Noonday Mine in the southern Nopah Range, CA.
+
+---
+
+<a href='/images/etc/NoondaySheetcracks.jpg'><img src='/images/etc/NoondaySheetcracks.jpg'></a>
+Sheet-crack cements in the ~635 Ma Noonday Dolomite (generally interpreted as the Marinoan cap carbonate) near the eponymous Noonday Mine in the southern Nopah Range, CA.
+
+---
+
+<a href='/images/etc/NoondayKingstonBasementContact.jpg'><img src='/images/etc/NoondayKingstonBasementContact.jpg'></a>
+Paleoproterozoic basement orthogneiss (~1.7 Ga, dark exposures foreground) overlain by a thin Cryogenian lodgement till of the Kingston Peak formation, in turn overlain by the cliff-forming Noonday Dolomite. The Kingston Peak formation has been significantly altered by much later hydrothermal activity in this locality near the Noonday Mine in the southern Nopah Range, CA.
+
+---
+
+<a href='/images/etc/KingstonPeakDiamictite.jpg'><img src='/images/etc/KingstonPeakDiamictite.jpg'></a>
+Assorted clasts (primarily Paleoproterozoic basement, including one orthogneiss clast here featuring prominent ptygmatic folds) in the matrix of the Cryogenian diamictite of the Kingston Peak Formation near Saratoga Spring, California.
+
+---
+
+<a href='/images/etc/KingstonNoondayContact1.jpg'><img src='/images/etc/KingstonNoondayContact1.jpg'></a>
+A group of geologists walks towards the contact between the Kingston Peak Formation (dark diamictites, left) and the Noonday Formation (tan dolomite, right) near Saratoga Spring, California.  
+
+---
+
+<a href='/images/etc/KingstonNoondayContact2.jpg'><img src='/images/etc/KingstonNoondayContact2.jpg'></a>
+The Noonday Dolomite, interpreted as a Marinoan cap carbonate, overlies the Cryogenian diamictites of the Kingston Peak Formation near Saratoga Spring, CA.
+
+---
+
+<a href='/images/etc/BeckSpringOoids.jpg'><img src='/images/etc/BeckSpringOoids.jpg'></a>
+Partly-silicified giant ooids of the Tonian Beck Spring formation near Saratoga Spring, CA.
+
+---
+
+<a href='/images/etc/HorsetheifSpringsExposure.jpg'><img src='/images/etc/HorsetheifSpringsExposure.jpg'></a>
+Tonian carbonates of the Horsetheif Springs formation near Saratoga Spring, CA.
+
+---
+
+<a href='/images/etc/CrystalSpringCements.jpg'><img src='/images/etc/CrystalSpringCements.jpg'></a>
+Laminated calcitic cements in the Mesoproterozoic Crystal Spring Formation near Saratoga Spring, CA.
 
 ---
 
