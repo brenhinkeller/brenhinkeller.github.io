@@ -1,13 +1,13 @@
 ---
-title: "Great Unconformity"
-excerpt: "<a href='/fieldwork/097-unconformity-2019/'><img src='/images/unconformity/Eolus_Panorama2.jpg'></a>The Ignacio Quartzite (of contested age, though likely Cambrian) unconformably overlies the Mesoproterozoic Eolus Granite in the Needle Mountains, Colorado."
+title: "The Great Unconformity"
+excerpt: "<a href='/fieldwork/097-unconformity-2019/'><img src='/images/unconformity/Eolus_Panorama2.jpg'></a>The Ignacio Quartzite (of contested age, though likely Cambrian) unconformably overlies the Mesoproterozoic (1.433 Ga) Eolus Granite in the Needle Mountains, Colorado."
 collection: fieldwork
 ---
-Unconformities and basement nonconformities associated with the Great Unconformity
+Unconformities and basement nonconformities associated with the Great Unconformity as exposed in the Western US
 ---
 
 <a href='/images/unconformity/Eolus_Panorama2.jpg'><img src='/images/unconformity/Eolus_Panorama2.jpg'></a>
-The Ignacio Sandstone (of contested age, though likely Cambrian) unconformably overlies the Mesoproterozoic (1.43 Ga) Eolus Granite in the Needle Mountains, Colorado.
+The Ignacio Sandstone (of contested age, though likely Cambrian) unconformably overlies the Mesoproterozoic (1.433 Ga) Eolus Granite in the Needle Mountains, Colorado.
 
 ---
 
