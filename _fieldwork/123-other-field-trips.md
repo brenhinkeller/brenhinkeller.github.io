@@ -107,6 +107,11 @@ Tufa, Mono Lake, California
 
 ---
 
+<a href='/images/etc/Mayflower_panorama_2.jpg'><img src='/images/etc/Mayflower_panorama_2.jpg'></a>
+Paleoproterozoic (~1.7 Ga) migmatitic basement forms a jagged arête at the head of Mayflower Gulch, Tenmile Range, Colorado.
+
+---
+
 <a href='/images/etc/IcelandLavaTube1.jpg'><img src='/images/etc/IcelandLavaTube1.jpg'></a>
 Intricate fluting and spatter on the wall of a lava tube, Raufarhólshellir, Iceland
 
