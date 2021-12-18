@@ -78,6 +78,11 @@ A bedding plane of stromatolitic limestone in the Carboniferous Amsden Formation
 
 ---
 
+<a href='/images/etc/AmsdenStromatolitesSide.jpg'><img src='/images/etc/AmsdenStromatolitesSide.jpg'></a>
+A side view of stromatolitic limestone in the Carboniferous Amsden Formation, near Shell Canyon, WY.
+
+---
+
 <a href='/images/etc/DevilsKitchen.jpg'><img src='/images/etc/DevilsKitchen.jpg'></a>
 The colorful Cretaceous stratigraphy of Devil's Kitchen, near Cody, WY.
 
