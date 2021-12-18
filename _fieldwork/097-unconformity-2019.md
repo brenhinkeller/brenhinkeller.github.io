@@ -47,12 +47,12 @@ The Cambrian Sawatch Sandstone unconformably overlies Paleoproterozoic crystalli
 ---
 
 <a href='/images/unconformity/MicaMineNonconformity_Panorama2.jpg'><img src='/images/unconformity/MicaMineNonconformity_Panorama2.jpg'></a>
-A thin layer of slope-forming red silststone of the Triassic Chine Formation, topped by cliff-forming Wingate Sandstone, unconformably overlies a Proterozoic basement of quartz-mica-kspar pegmatite near Grand Junction, CO.
+A thin layer of slope-forming red silststone of the Triassic Chine Formation, topped by cliff-forming Wingate Sandstone, unconformably overlies a Proterozoic basement of quartz-mica-kspar pegmatite, Ladder Canyon, CO.
 
 ---
 
 <a href='/images/unconformity/MicaMinePegmatite.jpg'><img src='/images/unconformity/MicaMinePegmatite.jpg'></a>
-Dartmouth graduate student [Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease) examines meter-scale books of mica in the Proterozoic basement quartz-mica-kspar pegmatite near Grand Junction, CO.
+Dartmouth graduate student [Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease) examines meter-scale books of mica in the Proterozoic basement quartz-mica-kspar pegmatite,  Ladder Canyon, CO.
 
 ---
 
