@@ -63,3 +63,8 @@ Cambrian Flathead Sandstone unconformably ovleries deeply weathered Archean base
 
 <a href='/images/unconformity/ShoshoneRiverNonconformity.jpg'><img src='/images/unconformity/ShoshoneRiverNonconformity.jpg'></a>
 Cambrian Flathead Sandstone unconformably ovleries the Archean "Oldest Gneiss Complex" of the Wyoming Craton in a roadcut in the canyon of the Shoshone River near Cody, WY.
+
+---
+
+<a href='/images/unconformity/ShellCreekNonconformity.jpg'><img src='/images/unconformity/ShellCreekNonconformity.jpg'></a>
+Cambrian Flathead Sandstone unconformably ovleries a deeply weathered outcrop of 2950 ± 5 Ma granite of the Archean Bighorn Batholith, wherein a thick grus develops around incipient boulders. Shell Creek, Bighorn Mountains, WY.
