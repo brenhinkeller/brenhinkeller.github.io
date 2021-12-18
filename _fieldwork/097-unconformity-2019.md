@@ -47,7 +47,7 @@ The Cambrian Sawatch Sandstone unconformably overlies Paleoproterozoic crystalli
 ---
 
 <a href='/images/unconformity/MicaMineNonconformity_Panorama2.jpg'><img src='/images/unconformity/MicaMineNonconformity_Panorama2.jpg'></a>
-The Triassic Kayenta Formation unconformably overlies Proterozoic a quartz-mica-kspar pegmatite near Grand Junction, CO.
+A thin layer of slope-forming red silststone of the Triassic Chine Formation, topped by cliff-forming Wingate Sandstone, unconformably overlies a Proterozoic basement of quartz-mica-kspar pegmatite near Grand Junction, CO.
 
 ---
 
