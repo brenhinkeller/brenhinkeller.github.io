@@ -68,6 +68,21 @@ Laminated calcitic cements in the Mesoproterozoic Crystal Spring Formation near 
 
 ---
 
+<a href='/images/etc/ClarksForkCanyon.jpg'><img src='/images/etc/ClarksForkCanyon.jpg'></a>
+Clarks Fork Canyon, where the Clarks Fork Yellowstone River incises into uplifted Archean Wyoming Province basement in the Beartooth Mountains, WY. The plateau at the top of the canyon is locally nonconformably overlain by Cambrian Flathead Sandstone.
+
+---
+
+<a href='/images/etc/AmsdenStromatolites.jpg'><img src='/images/etc/AmsdenStromatolites.jpg'></a>
+A bedding plane of stromatolitic limestone in the Carboniferous Amsden Formation, near Shell Canyon, WY.
+
+---
+
+<a href='/images/etc/DevilsKitchen.jpg'><img src='/images/etc/DevilsKitchen.jpg'></a>
+The colorful Cretaceous stratigraphy of Devil's Kitchen, near Cody, WY.
+
+---
+
 <a href='/images/etc/GICBreccia1.jpg'><img src='/images/etc/GICBreccia1.jpg'></a>
 Intrusive breccia in the mixing zone of the 149 Ma Guadalupe Igneous Complex, Sierra Nevada, California
 
