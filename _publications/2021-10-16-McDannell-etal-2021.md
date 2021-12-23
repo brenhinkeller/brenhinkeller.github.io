@@ -5,6 +5,7 @@ permalink: /publication/2021-10-16-McDannell-etal-2021
 excerpt: 'The Great Unconformity represents a gap of hundreds of millions to over a billion years in the geologic record. The cause of this missing time has eluded explanation, yet recently two opposing hypotheses claim either a glacial or plate tectonic origin in the Neoproterozoic. We provide thermochronologic evidence of rock cooling and multiple kilometers of exhumation in the Cryogenian Period in support of a glacial origin for the composite basement nonconformity found across the North American interior. The broad synchronicity of this cooling signal at the continental scale can only be readily explained by glacial denudation.'
 date: 2021-10-16
 venue: 'EarthArXiv preprint'
+paperurl: 'https://doi.org/10.31223/X5F91X'
 preprinturl: 'https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'
 arxivurl: 'https://doi.org/10.31223/X5F91X'
 authors: 'Kalin T. McDannell, C. Brenhin Keller, William R. Guenthner, Peter K. Zeitler, David L. Shuster'
