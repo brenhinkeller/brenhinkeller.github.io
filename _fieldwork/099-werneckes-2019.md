@@ -1,6 +1,6 @@
 ---
 title: "Wernecke Mountains, Yukon Territory"
-excerpt: "<a href='/fieldwork/099-werneckes-2019/'><img src='/images/werneckes/RacklaPanorama.jpg'></a>The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs runs parallel to the river valley."
+excerpt: "<a href='/fieldwork/099-werneckes-2019/'><img src='/images/werneckes/RacklaPanorama.jpg'></a>The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs parallel to the river valley."
 collection: fieldwork
 ---
 Neproterozoic through Paleozoic Earth History
@@ -31,7 +31,7 @@ Flat pebble conglomerate of the unnamed limestone unit below the Bouvette format
 ---
 
 <a href='/images/werneckes/RacklaPanorama.jpg'><img src='/images/werneckes/RacklaPanorama.jpg'></a>
-The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs runs parallel to the river valley. <a href='/images/werneckes/RacklaPanoramaFull.jpg'>full size</a>
+The East Rackla River valley viewed from the north, looking towards Mount Mervyn. The Dawson Thrust runs parallel to the river valley. <a href='/images/werneckes/RacklaPanoramaFull.jpg'>full size</a>
 
 ---
 
