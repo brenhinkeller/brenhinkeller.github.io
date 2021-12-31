@@ -1,6 +1,6 @@
 ---
 title: "Medicine Bow Mountains, Wyoming"
-excerpt: "<a href='/fieldwork/096-snowy-pass-2021/'><img src='/images/snowy_pass/NashForkStromatolites2.jpg'></a>
+excerpt: "<a href='/fieldwork/096-snowypass-2021/'><img src='/images/snowy_pass/NashForkStromatolites2.jpg'></a>
 Microbialitic metadolomite in the Paleoproterozoic (~2.05 Ga) Nash Fork formation, \"valley of the stromatolites\", Medicine Bow Mountains, Wyoming."
 collection: fieldwork
 ---
