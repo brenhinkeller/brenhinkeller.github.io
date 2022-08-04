@@ -8,7 +8,7 @@ venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.2118682119'
 preprinturl: 'https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'
 arxivurl: 'https://doi.org/10.31223/X5F91X'
-authors: 'Kalin T. McDannell, C. Brenhin Keller, William R. Guenthner, Peter K. Zeitler, David L. Shuster'
+authors: 'Kalin T. McDannell, C. Brenhin Keller, William R. Guenthner, Peter K. Zeitler, and David L. Shuster'
 citation: 'McDannell, K.T., Keller, C.B., Guenthner, W.R., Zeitler, P.K., &amp; Shuster, D.L. (2022). Thermochronologic constraints on the origin of the Great Unconformity. <i>Proceedings of the National Academy of Sciences</i> 119 (5), e2118682119.'
 ---
 <a href='https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;
