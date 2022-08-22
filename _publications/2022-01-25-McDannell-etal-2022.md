@@ -8,11 +8,12 @@ venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.2118682119'
 preprinturl: 'https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'
 arxivurl: 'https://doi.org/10.31223/X5F91X'
+pdfurl: 'https://www.pnas.org/doi/pdf/10.1073/pnas.2118682119?download=true'
 codeurl: 'https://doi.org/10.17605/OSF.IO/43UGY'
 authors: 'Kalin T. McDannell, C. Brenhin Keller, William R. Guenthner, Peter K. Zeitler, and David L. Shuster'
 citation: 'McDannell, K.T., Keller, C.B., Guenthner, W.R., Zeitler, P.K., &amp; Shuster, D.L. (2022). Thermochronologic constraints on the origin of the Great Unconformity. <i>Proceedings of the National Academy of Sciences</i> 119 (5), e2118682119.'
 ---
-<a href='https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://doi.org/10.17605/OSF.IO/43UGY'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://brenhinkeller.github.io/files/MKGZS2021Preprint.pdf'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pnas.org/doi/pdf/10.1073/pnas.2118682119?download=true'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://doi.org/10.17605/OSF.IO/43UGY'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 The Great Unconformity involves a common gap of hundreds of millions to billions of years in the geologic record. The cause of this missing time has long eluded explanation, but recently two opposing hypotheses claim either a glacial or a plate tectonic origin in the Neoproterozoic. We provide thermochronologic evidence of rock cooling and multiple kilometers of exhumation in the Cryogenian Period in support of a glacial origin for erosion contributing to the composite basement nonconformity found across the North American interior. The broad synchronicity of this cooling signal at the continental scale can only be readily explained by glacial denudation.
 
