@@ -6,9 +6,11 @@ excerpt: '------'
 date: 2022-08-22
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.2209946119'
+codeurl: 'https://gist.github.com/brenhinkeller/11730d83cb5e8135178a693b73289185'
 authors: 'Kalin T. McDannell, C. Brenhin Keller, William R. Guenthner, Peter K. Zeitler, and David L. Shuster'
 citation: 'McDannell, K.T., Keller, C.B., Guenthner, W.R., Zeitler, P.K., &amp; Shuster, D.L. (2022). Reply to Flowers et. al.: Existing thermochronologic data constrain Snowball glacial erosion below the Great Unconformity. <i>Proceedings of the National Academy of Sciences</i> 119 (38), e2209946119.'
 ---
+<a href='https://gist.github.com/brenhinkeller/11730d83cb5e8135178a693b73289185'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ------
 
