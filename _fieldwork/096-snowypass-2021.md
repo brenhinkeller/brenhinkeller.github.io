@@ -42,4 +42,4 @@ Large stromatolitic bioherms in the Paleoproterozoic (~2.05 Ga) metadolomite of 
 ---
 
 <a href='/images/snowy_pass/NashForkStromatolites3.jpg'><img src='/images/snowy_pass/NashForkStromatolites3.jpg'></a>
-A singularly massive stromatolitic bioherm in the Paleoproterozoic (~2.05 Ga) metadolomite of the Nash Fork formation, "valley of the stromatolites", Medicine Bow Mountains, WY. Ruler is 1.5m for scale.
+A singularly massive stromatolitic bioherm in the Paleoproterozoic (~2.05 Ga) metadolomite of the Nash Fork formation, "valley of the stromatolites", Medicine Bow Mountains, WY. Ruler is 2m for scale.
