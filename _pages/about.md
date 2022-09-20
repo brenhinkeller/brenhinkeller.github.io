@@ -22,7 +22,7 @@ Despite the static appearance of Earth’s continental crust on human timescales
 ## Alumni
 
 | ------------------------- | ------------------------- | ------------------------- |
-|<img width="256" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|<img width="256" src="images/profiles/gailin_l_pease.jpg"><br>[Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease)<br>MS *21|<img width="256" src="images/profiles/blank.jpg">|
+|<img width="256" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow `21|<img width="256" src="images/profiles/gailin_l_pease.jpg"><br>[Gailin Pease](https://earthsciences.dartmouth.edu/people/gailin-l-pease)<br>Master of Science `21|<img width="256" src="images/profiles/blank.jpg">|
 {: style="font-size: 95%; text-align: center;"}
 
 ---
