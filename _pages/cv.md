@@ -47,13 +47,17 @@ Teaching
 
 Awards and Fellowships
 ======
+* <b>American Geophysical Union Hisashi Kuno Award</b> 2023<br/>
+
+* <b>Dartmouth Class of 1962 Faculty Fellowship</b> 2023<br/>
+
 * <b>U.S. Department of Energy Computational Science Graduate Fellowship</b> 2012-2016<br/>
 
 * <b>Princeton University Centennial Fellowship</b> 2010-2012<br/>
 
 * <b>Frank H.T. Rhodes Award</b> 2010<br/>
 
-* <b>CALS Academic Excellence Award</b> 2010<br/>
+* <b>Cornell CALS Academic Excellence Award</b> 2010<br/>
 
 * <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
 <br/><br/>
