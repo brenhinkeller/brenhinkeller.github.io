@@ -8,12 +8,14 @@ tags:
   - bolide impacts
 ---
 Press coverage:
-https://home.dartmouth.edu/news/2022/09/what-killed-dinosaurs-and-other-life-earth (Dartmouth News story)
-https://www.discovermagazine.com/the-sciences/did-volcanic-eruptions-drive-dinosaurs-to-extinction
-https://www.forbes.com/sites/davidbressan/2022/09/13/volcanic-mega-eruptions-have-been-the-key-driver-of-mass-extinctions-new-study-claims/?sh=1642696c6fe0
-https://www.earth.com/news/volcanoes-were-the-key-driver-of-earths-mass-extinctions/
-https://www.sciencedaily.com/releases/2022/09/220912152923.htm
-https://www.aljazeera.net/news/science/2022/10/4/أحدث-دراسة-علمية-تقدم-إجابة-ما-الذي
-https://www.eurekalert.org/news-releases/964360 (Press release)
+
+Dartmouth News: ["What Killed Dinosaurs and Other Life on Earth?"](https://home.dartmouth.edu/news/2022/09/what-killed-dinosaurs-and-other-life-earth) by Harini Barath
+Discover: [Did Massive Volcanic Eruptions Drive Dinosaurs to Become Extinct?](https://www.discovermagazine.com/the-sciences/did-volcanic-eruptions-drive-dinosaurs-to-extinction) by Sam Walters
+Forbes: ["Volcanic ‘Mega-Eruptions’ Have Been The Key Driver Of Mass Extinctions, New Study Claims"](https://www.forbes.com/sites/davidbressan/2022/09/13/volcanic-mega-eruptions-have-been-the-key-driver-of-mass-extinctions-new-study-claims/) by David Bressan
+Earth.com: ["Volcanoes were the key driver of Earth's mass extinctions"](https://www.earth.com/news/volcanoes-were-the-key-driver-of-earths-mass-extinctions/) by Chrissy Sexton
+Al Jazeera: ["تسبب في موت الديناصورات وخنق الحياة الأخرى على الأرض؟"](https://www.aljazeera.net/news/science/2022/10/4/أحدث-دراسة-علمية-تقدم-إجابة-ما-الذي)
+as well as the [Dartmouth press release](https://www.eurekalert.org/news-releases/964360)
+and other coverage listed at https://pnas.altmetric.com/details/135836535/news
+
 
 ------

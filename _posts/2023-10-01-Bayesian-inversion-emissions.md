@@ -8,10 +8,10 @@ tags:
   - Bayesian inversion
 ---
 Press coverage:
-https://www.wired.com/story/what-killed-the-dinosaurs/
-https://www.nationalgeographic.de/wissenschaft/2023/10/asteroid-oder-vulkane-was-beendete-die-aera-der-dinosaurier-massenaussterben-perm-trias-grenze
-https://astrobiology.com/2023/09/innovative-approach-reveals-environmental-mechanisms-of-the-end-cretaceous-extinction.html
-https://www.eurekalert.org/news-releases/1002574 (press release)
+
+Wired ["An Epic Fight Over What Really Killed the Dinosaurs"](https://www.wired.com/story/what-killed-the-dinosaurs/) by Matt Simon
+Astrobiology ["Innovative Approach Reveals Environmental Mechanisms Of The End-Cretaceous Extinction"](https://astrobiology.com/2023/09/innovative-approach-reveals-environmental-mechanisms-of-the-end-cretaceous-extinction.html) by Keith Cowing
+As well as the [AAAS press release](https://www.eurekalert.org/news-releases/1002574)
 and others listed at https://science.altmetric.com/details/154729247/news
 
 ------

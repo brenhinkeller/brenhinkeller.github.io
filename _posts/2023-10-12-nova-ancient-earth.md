@@ -5,6 +5,7 @@ permalink: /posts/2020/10/nova-ancient-earth/
 tags:
   - Great Unconformity
 ---
-https://www.pbs.org/wgbh/nova/video/ancient-earth-frozen/
+
+It was an honor to be interviewed for this episode of for PBS's NOVA [Ancient Earth: Frozen](https://www.pbs.org/wgbh/nova/video/ancient-earth-frozen/)!
 
 ------
