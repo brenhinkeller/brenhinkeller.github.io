@@ -1,7 +1,7 @@
 ---
 title: "EARS 80.03: Technical Computation in the Earth Sciences"
 collection: teaching
-type: "Undergraduate/Graduate Course"
+type: "Undergraduate Course"
 permalink: /teaching/ears-80.03
 venue: "Dartmouth College, Department of Earth Sciences"
 date: 2020-09-14
