@@ -1,12 +1,13 @@
 ---
-title: "EARS 80.03: Technical Computation in the Earth Sciences, Fall 2020"
+title: "EARS 80.03: Technical Computation in the Earth Sciences"
 collection: teaching
 type: "Undergraduate/Graduate Course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/ears-80.03
 venue: "Dartmouth College, Department of Earth Sciences"
 date: 2020-09-14
 location: "Hanover, NH"
 ---
+Taught: Fall 2020
 
 ### Course overview:
 Driven by increasing data availability, processing power, and model sophistication, scientific or technical computation has become increasingly central to basic research in the Earth Sciences. This course aims to provide Earth Science students with a working introduction to scientific computation including (1) hands-on experience applying common, widely applicable sampling and inversion algorithms to classic Earth Science problems; (2) an awareness of the factors limiting efficiency and scalability when working with large datasets; and (3) an introduction to some of the tools and best practices of software engineering used to produce more robust, maintainable software.
