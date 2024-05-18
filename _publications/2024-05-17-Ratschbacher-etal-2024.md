@@ -1,0 +1,17 @@
+---
+title: "Multi-scale, open-system magmatic and sub-solidus processes contribute to the chemical and isotopic characteristics of the Jurassic Guadalupe Igneous Complex, Sierra Nevada, California, USA"
+collection: publications
+permalink: /publication/2024-05-17-Ratschbacher-etal-2024
+excerpt: '------'
+date: 2024-05-17
+venue: 'Geoscphere'
+paperurl: 'https://doi.org/10.1130/GES02689.1'
+authors: 'Barbara C. Ratschbacher, Katie Ardill, C. Brenhin Keller, Blair Schoene, Scott R. Paterson, Keith D. Putirka, Jade Star Lackey, and Matthew L. Paige'
+citation: 'Barbara C. Ratschbacher, Katie Ardill, C. Brenhin Keller, Blair Schoene, Scott R. Paterson, Keith D. Putirka, Jade Star Lackey, &amp; Matthew L. Paige. (2024) Multi-scale, open-system magmatic and sub-solidus processes contribute to the chemical and isotopic characteristics of the Jurassic Guadalupe Igneous Complex, Sierra Nevada, California, USA. <i>Geosphere</i> doi: https://doi.org/10.1130/GES02689.1'
+---
+
+------
+
+>Abstract: <br/>The chemical and isotopic characteristics of a solidified pluton represent the integration of magmatic and sub-solidus processes operating across a range of spatial and temporal scales during pluton construction, crystallization, and cooling. Disentangling these processes and understanding where chemical and isotopic signatures were acquired requires the combination of multiple tools tracing processes at different time and length scales. We combine whole-rock oxygen and Sr-Nd isotopes, zircon oxygen isotopes and trace elements, and mineral compositions with published high-precision U-Pb zircon geochronology to evaluate differentiation within the bimodal Guadalupe Igneous Complex, Sierra Nevada, California (USA). The complex was constructed in ~300 k.y. between 149 and 150 Ma. Felsic magmas crystallized as centimeter- to meter-sized segregations in gabbros in the lower part of the complex and as granites and granophyres structurally above the gabbros. A central mingling zone separates the mafic and felsic units. Pluton-wide 18O(whole-rock), 18O(zircon), and Sr-Nd isotopic ranges are too large to be explained by in situ, closed-system differentiation, instead requiring open-system behavior at all scales. Low 18O(whole-rock) and 18O(zircon) values indicate assimilation of hydrothermally altered marine host rocks during ascent and/or emplacement. In situ differentiation processes operated on a smaller scale (meters to tens of meters) for at least ~200 k.y. via (1) percolation and segregation of chemically and isotopically diverse silicic interstitial melt from a heterogeneous gabbro mush; (2) crystal accumulation; and (3) sub-solidus, high-temperature, hydrothermal alteration at the shallow roof of the complex to modify the chemical and isotopic characteristics. Whole-rock and mineral chemistry in combination with geochronology allows deciphering open-system differentiation processes at the outcrop to pluton scale from magmatic to sub-solidus temperatures over time scales of hundreds of thousands to millions of years.
+
+Suggested citation: <br/>Barbara C. Ratschbacher, Katie Ardill, C. Brenhin Keller, Blair Schoene, Scott R. Paterson, Keith D. Putirka, Jade Star Lackey, & Matthew L. Paige. (2024) Multi-scale, open-system magmatic and sub-solidus processes contribute to the chemical and isotopic characteristics of the Jurassic Guadalupe Igneous Complex, Sierra Nevada, California, USA. <i>Geosphere</i> doi: https://doi.org/10.1130/GES02689.1
