@@ -31,6 +31,25 @@ Education
   * <b>Adviser:</b> [Blair Schoene](https://www.princeton.edu/geosciences/people/schoene/)
 <br/><br/>
 
+Awards and Fellowships
+======
+* <b>James B. Macelwane Medal</b>, American Geophysical Union, 2024<br/>
+
+* <b>Donath Medal</b>, Geological Society of America, 2024<br/>
+
+* <b>Hisashi Kuno Award</b>, American Geophysical Union, 2023<br/>
+
+* <b>Class of 1962 Faculty Fellowship</b>, Dartmouth College, 2023<br/>
+
+* <b>Computational Science Graduate Fellowship</b>, U.S. Department of Energy, 2012-2016<br/>
+
+* <b>Centennial Fellowship</b>, Princeton University Graduate College, 2010-2012<br/>
+
+* <b>Frank H.T. Rhodes Award</b>, Department of Earth and Atmospheric Sciences, Cornell University, 2010<br/>
+
+* <b>Ann S. and Robert R. Morley Student Research Grant</b>, Cornell University, 2009
+<br/><br/>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -44,23 +63,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   <br/>
-
-Awards and Fellowships
-======
-* <b>American Geophysical Union Hisashi Kuno Award</b> 2023<br/>
-
-* <b>Dartmouth Class of 1962 Faculty Fellowship</b> 2023<br/>
-
-* <b>U.S. Department of Energy Computational Science Graduate Fellowship</b> 2012-2016<br/>
-
-* <b>Princeton University Centennial Fellowship</b> 2010-2012<br/>
-
-* <b>Frank H.T. Rhodes Award</b> 2010<br/>
-
-* <b>Cornell CALS Academic Excellence Award</b> 2010<br/>
-
-* <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
-<br/><br/>
 
 Selected Fieldwork
 ======
