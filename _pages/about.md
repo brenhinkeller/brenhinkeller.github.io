@@ -14,13 +14,14 @@ Despite the static appearance of Earth’s continental crust on human timescales
 ## Research group
 
 | ------------------------- | ------------------------- | ------------------------- |
-|<img width="256" src="images/profiles/jannitta_yao.jpg"><br>[Jannitta Yao](https://earthsciences.dartmouth.edu/people/jannitta-yao)<br>Graduate Student|<img width="256" src="images/profiles/reina_harding.jpg"><br>[Reina Harding](https://earthsciences.dartmouth.edu/people/reina-harding)<br>Graduate Student|<img width="256" src="images/profiles/nat_tolls.jpg"><br>[Nat Tolls](https://earthsciences.dartmouth.edu/people/natalie-tolls)<br>Graduate Student|
+|<img width="256" src="images/profiles/jannitta_yao.jpg"><br>[Jannitta Yao](https://earthsciences.dartmouth.edu/people/jannitta-yao)<br>Graduate Student (PhD)|<img width="256" src="images/profiles/reina_harding.jpg"><br>[Reina Harding](https://earthsciences.dartmouth.edu/people/reina-harding)<br>Graduate Student (PhD)|<img width="256" src="images/profiles/nat_tolls.jpg"><br>[Nat Tolls](https://earthsciences.dartmouth.edu/people/natalie-tolls)<br>Graduate Student (MS)|
 |<img width="256" src="images/profiles/kalin_mcdannell.jpg"><br>[Kalin McDannell](https://www.kmcdannell.com/)<br>Visiting Scientist<br>Postdoc 2020-2024|<img width="256" src="images/profiles/blank.jpg">|<img width="256" src="images/profiles/blank.jpg">|
 {: style="font-size: 95%; text-align: center;"}
 
 ## Alumni
 
 | ------------------------- | ------------------------- | ------------------------- |
+|<img width="256" src="images/profiles/blank.jpg"><br>Katherine Plaza<br>Senior Honors Thesis<br>Class of 2025|<img width="256" src="images/profiles/blank.jpg"><br>Ashton Lewis<br>Senior Honors Thesis<br>Class of 2025|<img width="256" src="images/profiles/blank.jpg"><br>Rowan Gregoire<br>Senior Honors Thesis<br>Class of 2024|
 |<img width="256" src="images/profiles/ke_gao.jpg"><br>Ke Gao<br>Visiting Scientist<br2020-2025|<img width="256" src="images/profiles/graham_edwards.jpg"><br>[Graham Edwards](https://grahamedwards.github.io/)<br>Postdoctoral Fellow<br>2021-2024|<img width="256" src="images/profiles/alex_cox.jpg"><br>[Alexander Cox](https://earthsciences.dartmouth.edu/people/alexander-cox)<br>Master of Science<br>Class of 2023|
 |<img width="256" src="images/profiles/theo_green.jpg"><br>[Theodore Green](https://geosciences.princeton.edu/people/theodore-green)<br>Dartmouth Senior Fellow<br>Class of 2021|<img width="256" src="images/profiles/gailin_l_pease.jpg"><br>Gailin Pease<br>Master of Science<br>Class of 2021|<img width="256" src="images/profiles/akshay_mehra.jpg"><br>[Akshay Mehra](https://www.akshaymehra.com/)<br>Postdoctoral Fellow<br>2019-2022|
 {: style="font-size: 95%; text-align: center;"}
